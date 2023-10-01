@@ -1,0 +1,12 @@
+[
+  {
+    "position": "A former group partner",
+    "exposed": true
+  },{
+    "position": "A person local from the place",
+    "exposed": false
+  },{
+    "position": "A person that betrayed the antagonist",
+    "exposed": true
+  }
+]

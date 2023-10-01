@@ -1,0 +1,27 @@
+[
+    {
+      "location": "in an old church",
+      "populated": false,
+      "known": false
+    },{
+      "location": "in a festival that occurs in a isolated small town",
+      "populated": true,
+      "known": false
+    },{
+      "location": "in an orphanage",
+      "populated": true,
+      "known": false
+    },{
+      "location": "in an hospital",
+      "populated": true,
+      "known": false
+    },{
+      "location": "in an old asylum",
+      "populated": true,
+      "known": false
+    },{
+      "location": "in a hostel",
+      "populated": true,
+      "known": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+      "main": true,
+      "plot": "discovering that the ally was the villain"
+    },{
+      "main": false,
+      "plot": "an old enemy that reappears"
+    },{
+      "main": false,
+      "plot": "enemy reinforcements that arrives"
+    },{
+      "main": true,
+      "plot": "the need to protect civilians"
+    },{
+      "main": true,
+      "plot": "something makes the group loses its equipment"
+    },{
+      "main": true,
+      "plot": "a disaster that was triggered by the enemies"
+    },{
+      "main": false,
+      "plot": "a group of civilians that were setup against the group"
+    }
+]
